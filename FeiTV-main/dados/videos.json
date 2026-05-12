@@ -1,0 +1,363 @@
+{
+    "1": {
+        "titulo": "Harry Kane já é maior que Ronaldo Fenômeno?",
+        "duracao": "08:15",
+        "autor": "esporte_total",
+        "views": 5420,
+        "likes": 4300,
+        "deslikes": 210,
+        "comentarios": [
+            "Muito bom!",
+            "Discordo totalmente",
+            "Ótima análise"
+        ]
+    },
+    "2": {
+        "titulo": "Top 10 músicas do momento",
+        "duracao": "12:40",
+        "autor": "music_trends",
+        "views": 8730,
+        "likes": 7600,
+        "deslikes": 150,
+        "comentarios": [
+            "Playlist incrível",
+            "Faltou uma música aí"
+        ]
+    },
+    "3": {
+        "titulo": "Virginia e Vini Jr: o melhor casal do mundo!",
+        "duracao": "09:30",
+        "autor": "celebridades_tv",
+        "views": 6542,
+        "likes": 5000,
+        "deslikes": 300,
+        "comentarios": [
+            "Que casal!",
+            "Não shippo"
+        ]
+    },
+    "4": {
+        "titulo": "Treino para iniciantes",
+        "duracao": "15:20",
+        "autor": "fit_life",
+        "views": 3210,
+        "likes": 2801,
+        "deslikes": 90,
+        "comentarios": [
+            "Comecei hoje!",
+            "Muito útil",
+            "Explicação clara",
+            "jurorr"
+        ]
+    },
+    "5": {
+        "titulo": "Tutorial de edição de vídeo",
+        "duracao": "18:05",
+        "autor": "edit_pro",
+        "views": 2890,
+        "likes": 2400,
+        "deslikes": 70,
+        "comentarios": [
+            "Me ajudou muito",
+            "Top demais",
+            "Qual programa você usa?"
+        ]
+    },
+    "6": {
+        "titulo": "Receita rápida de bolo",
+        "duracao": "07:45",
+        "autor": "cozinha_facil",
+        "views": 4123,
+        "likes": 3600,
+        "deslikes": 60,
+        "comentarios": []
+    },
+    "7": {
+        "titulo": "Review do novo smartphone",
+        "duracao": "11:50",
+        "autor": "tech_review",
+        "views": 7350,
+        "likes": 6900,
+        "deslikes": 180,
+        "comentarios": [
+            "Vale a pena?"
+        ]
+    },
+    "8": {
+        "titulo": "Por que o Neymar não deve ir para a Copa?",
+        "duracao": "10:10",
+        "autor": "aqueles_bragres",
+        "views": 5980,
+        "likes": 4200,
+        "deslikes": 500,
+        "comentarios": [
+            "Nada a ver",
+            "Concordo",
+            "Polêmico demais"
+        ]
+    },
+    "9": {
+        "titulo": "Como ganhar dinheiro online",
+        "duracao": "14:25",
+        "autor": "money_tips",
+        "views": 8455,
+        "likes": 8000,
+        "deslikes": 200,
+        "comentarios": [
+            "Funciona mesmo?",
+            "Muito bom"
+        ]
+    },
+    "10": {
+        "titulo": "Gameplay insano",
+        "duracao": "20:00",
+        "autor": "gamer_br",
+        "views": 9210,
+        "likes": 8800,
+        "deslikes": 120,
+        "comentarios": [
+            "Jogou muito!",
+            "Insano mesmo",
+            "Top gameplay"
+        ]
+    },
+    "11": {
+        "titulo": "Desafio engraçado",
+        "duracao": "06:30",
+        "autor": "fun_channel",
+        "views": 4788,
+        "likes": 4200,
+        "deslikes": 80,
+        "comentarios": [
+            "Ri demais",
+            "Muito bom kkk",
+            "Faz mais!"
+        ]
+    },
+    "12": {
+        "titulo": "Dicas de estudo rápido",
+        "duracao": "13:10",
+        "autor": "study_hacks",
+        "views": 3567,
+        "likes": 3100,
+        "deslikes": 50,
+        "comentarios": [
+            "Vou aplicar"
+        ]
+    },
+    "13": {
+        "titulo": "Top filmes para assistir",
+        "duracao": "09:55",
+        "autor": "cine_plus",
+        "views": 6234,
+        "likes": 5800,
+        "deslikes": 100,
+        "comentarios": [
+            "Já vi todos",
+            "Boas indicações",
+            "Faltou um clássico"
+        ]
+    },
+    "14": {
+        "titulo": "Notícias do mundo hoje",
+        "duracao": "16:40",
+        "autor": "news_global",
+        "views": 7102,
+        "likes": 6400,
+        "deslikes": 140,
+        "comentarios": [
+            "Bem informado",
+            "Triste notícia",
+            "Ótimo resumo"
+        ]
+    },
+    "15": {
+        "titulo": "Aprenda violão básico",
+        "duracao": "19:15",
+        "autor": "music_class",
+        "views": 2845,
+        "likes": 2501,
+        "deslikes": 61,
+        "comentarios": [
+            "Aprendi rápido",
+            "jurooo"
+        ]
+    },
+    "16": {
+        "titulo": "Os melhores gols da Champions League",
+        "duracao": "11:42",
+        "autor": "futebol_total",
+        "views": 7821,
+        "likes": 6900,
+        "deslikes": 145,
+        "comentarios": [
+            "Golaços absurdos!",
+            "Faltou o gol do Bale"
+        ]
+    },
+    "17": {
+        "titulo": "Como programar em Python do zero",
+        "duracao": "22:18",
+        "autor": "dev_master",
+        "views": 10432,
+        "likes": 9800,
+        "deslikes": 90,
+        "comentarios": [
+            "Explicação perfeita",
+            "Finalmente entendi funções",
+            "Muito didático"
+        ]
+    },
+    "18": {
+        "titulo": "Tour completo pelo meu setup gamer",
+        "duracao": "13:27",
+        "autor": "pc_insano",
+        "views": 6589,
+        "likes": 5900,
+        "deslikes": 110,
+        "comentarios": []
+    },
+    "19": {
+        "titulo": "Receitas fitness para o café da manhã",
+        "duracao": "09:54",
+        "autor": "fit_cozinha",
+        "views": 4877,
+        "likes": 4300,
+        "deslikes": 55,
+        "comentarios": [
+            "Vou testar amanhã"
+        ]
+    },
+    "20": {
+        "titulo": "Vale a pena comprar um iPhone em 2026?",
+        "duracao": "17:03",
+        "autor": "tech_now",
+        "views": 13980,
+        "likes": 12000,
+        "deslikes": 430,
+        "comentarios": [
+            "Preço absurdo",
+            "Review muito completa",
+            "Ainda prefiro Android",
+            "Melhor vídeo sobre o tema"
+        ]
+    },
+    "21": {
+        "titulo": "Aprenda Excel em 15 minutos",
+        "duracao": "15:11",
+        "autor": "office_pro",
+        "views": 5340,
+        "likes": 4700,
+        "deslikes": 60,
+        "comentarios": [
+            "Salvou meu trabalho!"
+        ]
+    },
+    "22": {
+        "titulo": "As séries mais aguardadas do ano",
+        "duracao": "12:35",
+        "autor": "series_plus",
+        "views": 7210,
+        "likes": 6500,
+        "deslikes": 95,
+        "comentarios": [
+            "Ansioso demais",
+            "Faltou citar The Boys"
+        ]
+    },
+    "23": {
+        "titulo": "Pegadinhas engraçadas na rua",
+        "duracao": "08:40",
+        "autor": "zoeira_tv",
+        "views": 8922,
+        "likes": 8101,
+        "deslikes": 130,
+        "comentarios": [
+            "fininho"
+        ]
+    },
+    "24": {
+        "titulo": "Como melhorar sua produtividade",
+        "duracao": "14:48",
+        "autor": "mind_focus",
+        "views": 6034,
+        "likes": 5500,
+        "deslikes": 70,
+        "comentarios": [
+            "Essas dicas ajudam muito",
+            "Vou começar a usar agenda"
+        ]
+    },
+    "25": {
+        "titulo": "Gameplay de terror mais assustadora",
+        "duracao": "26:12",
+        "autor": "dark_gamer",
+        "views": 11245,
+        "likes": 10300,
+        "deslikes": 210,
+        "comentarios": [
+            "Tomei susto junto kkk",
+            "Muito bom!",
+            "Joga mais jogos de terror"
+        ]
+    },
+    "26": {
+        "titulo": "Testando comidas japonesas diferentes",
+        "duracao": "10:56",
+        "autor": "food_explorer",
+        "views": 5742,
+        "likes": 5100,
+        "deslikes": 82,
+        "comentarios": [
+            "Deu vontade de provar tudo",
+            "Muito engraçado kkk"
+        ]
+    },
+    "27": {
+        "titulo": "Como organizar sua rotina de estudos",
+        "duracao": "16:09",
+        "autor": "study_time",
+        "views": 4680,
+        "likes": 4200,
+        "deslikes": 48,
+        "comentarios": [
+            "Isso vai me ajudar bastante"
+        ]
+    },
+    "28": {
+        "titulo": "Os carros mais rápidos do mundo",
+        "duracao": "18:44",
+        "autor": "motor_speed",
+        "views": 9851,
+        "likes": 9100,
+        "deslikes": 175,
+        "comentarios": [
+            "Bugatti é insana",
+            "Vídeo muito top",
+            "Faltou a Ferrari SF90"
+        ]
+    },
+    "29": {
+        "titulo": "React em 20 minutos",
+        "duracao": "20:31",
+        "autor": "codigo_dev",
+        "views": 7423,
+        "likes": 6900,
+        "deslikes": 92,
+        "comentarios": []
+    },
+    "30": {
+        "titulo": "Curiosidades bizarras sobre o espaço",
+        "duracao": "12:58",
+        "autor": "universo_curioso",
+        "views": 8310,
+        "likes": 7800,
+        "deslikes": 101,
+        "comentarios": [
+            "O universo é assustador",
+            "Muito interessante",
+            "Aprendi bastante",
+            "Faz parte 2!"
+        ]
+    }
+}

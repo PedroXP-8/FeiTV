@@ -1,0 +1,58 @@
+{
+    "1": {
+        "nome_lista": "Esportes e Futebol",
+        "dono": "bruno_lima",
+        "likes": 6225,
+        "visibilidade": "publica",
+        "videos": [
+            1,
+            8,
+            16
+        ]
+    },
+    "2": {
+        "nome_lista": "Tutoriais e Tecnologia",
+        "dono": "lucas_martins",
+        "likes": 3485,
+        "visibilidade": "publica",
+        "videos": [
+            5,
+            7,
+            17,
+            21,
+            29
+        ]
+    },
+    "3": {
+        "nome_lista": "Entretenimento e Gameplay",
+        "dono": "gabriela_costa",
+        "likes": 5426,
+        "visibilidade": "publica",
+        "videos": [
+            10,
+            11,
+            23,
+            25,
+            30
+        ]
+    },
+    "4": {
+        "nome_lista": "lista do pedro",
+        "dono": "pedro",
+        "likes": 0,
+        "visibilidade": "publica",
+        "videos": [
+            6,
+            18
+        ]
+    },
+    "5": {
+        "nome_lista": "lista da leticia2",
+        "dono": "leticiapinto",
+        "likes": 0,
+        "visibilidade": "publica",
+        "videos": [
+            4
+        ]
+    }
+}
