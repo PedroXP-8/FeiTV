@@ -124,7 +124,6 @@ def editar_lista_favoritos():
                
         print(f"\nNome da lista: {lista['nome_lista']}")
         print(f"Criador: {lista['dono']}")
-        print(f"Likes: {lista['likes']}")
         print(f"Vídeos: {lista['videos']}")
         print(f"Visibilidade: {lista['visibilidade']}")
         print("-" * 30)
