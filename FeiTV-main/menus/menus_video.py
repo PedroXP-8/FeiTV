@@ -50,7 +50,7 @@ def menu_video(video):
     while True:
         os.system('cls' if os.name == 'nt' else 'clear')
 
-        print(f'{video['titulo']}')
+        print(f'{video["titulo"]}')
 
         print('-' * 28)
         print('|' + ' ' * 26 + '|')
