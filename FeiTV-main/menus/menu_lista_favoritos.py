@@ -11,6 +11,7 @@ favoritos = carregar_favoritos()
 def menu_favoritos():
  
     while True:
+        favoritos = carregar_favoritos()
         os.system('cls' if os.name == 'nt' else 'clear')
         print('=' * 42)
         print('=' * 15 + " PLAYLISTS  " + '=' * 15)
@@ -18,14 +19,16 @@ def menu_favoritos():
         
         ids_favoritos = list(favoritos.keys())
         lista_favoritos = [favoritos[i] for i in ids_favoritos]
+        lista_publicos = []
         for lista in lista_favoritos:
             if lista["visibilidade"] == "publica":
+                lista_publicos.append(lista)
                 print(f"\nNome da lista: {lista['nome_lista']}")
                 print(f"Criador: {lista['dono']}")
                 print("-" * 30)
 
         print(f"""\nEscolha alguma lista de favoritos para assistir:\n 
-Opções entre 1 e {len(lista_favoritos)} 
+Opções entre 1 e {len(lista_publicos)} 
 0 --- voltar """)
         
         opcao = input("escolha alguma opção:  ").strip()
