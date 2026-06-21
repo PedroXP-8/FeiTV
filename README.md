@@ -35,37 +35,36 @@ Favoritos:
 - Visualização de listas salvas
 
 Estrutura do Projeto:
-
-  FeiTV/
-  ├── controle_acesso/
-  │   ├── controle_cadastro.py
-  │   └── controle_login.py
-  │
-  ├── dados/
-  │   ├── usuarios.txt
-  │   ├── videos.json
-  │   └── favoritos.json
-  │
-  ├── globals/
-  │   └── session.py
-  │
-  ├── load_favoritos/
-  │   └── favoritos.py
-  │
-  ├── load_videos/
-  │   └── videos.py
-  │
-  ├── menus/
-  │   ├── primeiros_menus.py
-  │   ├── menu_usuario.py
-  │   ├── menu_busca.py
-  │   ├── menu_lista_favoritos.py
-  │   ├── menu_controle_favoritos.py
-  │   └── menus_video.py
-  │
-  └── main.py
-
-
+```text
+FeiTV/
+├── controle_acesso/
+│   ├── controle_cadastro.py
+│   └── controle_login.py
+│
+├── dados/
+│   ├── usuarios.txt
+│   ├── videos.json
+│   └── favoritos.json
+│
+├── globals/
+│   └── session.py
+│
+├── load_favoritos/
+│   └── favoritos.py
+│
+├── load_videos/
+│   └── videos.py
+│
+├── menus/
+│   ├── primeiros_menus.py
+│   ├── menu_usuario.py
+│   ├── menu_busca.py
+│   ├── menu_lista_favoritos.py
+│   ├── menu_controle_favoritos.py
+│   └── menus_video.py
+│
+└── main.py
+```
 Como Executar:
 
 Pré-requisitos
